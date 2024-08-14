@@ -5,6 +5,4 @@
 # Rama Master
 
 # Alumnos:
-
-
-
+Ramiro Cugat
