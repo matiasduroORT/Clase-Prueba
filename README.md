@@ -4,7 +4,7 @@
 
 # Rama Master
 
-# Alumnos:
+# Alumnos: Juan Manuel Vales Flores
 
 
 
