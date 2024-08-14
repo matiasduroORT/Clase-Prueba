@@ -4,7 +4,7 @@
 
 # Rama Master
 
-# Alumnos:
+# Alumnos: Jordán Eduardo Shokida Breit
 
 
 
