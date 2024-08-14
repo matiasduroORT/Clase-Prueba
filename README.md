@@ -1,10 +1,8 @@
 # Clase 1 - PNT2    
 
-# Profe: Matia
+# Profe: Matias
 
 # Rama Master
-
-# Rama prueba
 
 # Alumnos:
 
