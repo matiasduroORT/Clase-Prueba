@@ -4,7 +4,7 @@
 
 # Rama Master
 
-# Alumnos: Juan Lurbé
+# Alumnos: Juan Manuel Lurbé
 
 
 
