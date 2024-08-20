@@ -6,7 +6,7 @@
 
 # Alumnos:
 
-Andrés Gómez
+Andrés Alejandro Gómez López
 
 
 
